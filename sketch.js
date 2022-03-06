@@ -311,6 +311,7 @@ function setup() {
 
 	
 	howToPlaypopup.setCollider("rectangle",900,-420,220,220);
+	howToPlaypopup.debug = true;
 
 	//GROUPS
 	waterGrp = new Group();
