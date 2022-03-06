@@ -310,8 +310,7 @@ function setup() {
 	life.visible = false;
 
 	
-	howToPlaypopup.setCollider("rectangle",900,-420,220,220);
-	howToPlaypopup.debug = true;
+	howToPlaypopup.setCollider("rectangle",240,-135,70,70);
 
 	//GROUPS
 	waterGrp = new Group();
